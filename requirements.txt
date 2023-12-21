@@ -1,0 +1,12 @@
+pydub==0.25.1
+scipy==1.7.3
+numpy==1.21.2
+noisereduce==1.1.0
+adaptfilt==0.1.0
+SpeechRecognition==3.8.1
+urllib3==1.26.7
+Pillow==8.3.2
+matplotlib==3.4.3
+fpdf==1.7.2
+pyahocorasick==1.4.2
+mysql-connector-python==8.0.28
