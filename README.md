@@ -1,4 +1,4 @@
-Prototype Resulting from Master's Project. See requirements.txt for dependencies.
+ASR Lesson Summary Generation Prototype Resulting from Master's Project. See requirements.txt for dependencies.
 
 Blunt, P., & Haskins, B. (2019, Nov). A model for incorporating an automatic speech recognition system in a noisy educational environment. In _2019 International Multidisciplinary Information Technology and Engineering Conference (IMITEC)_. (pp. 1–-7). IEEE. doi: 10.1109/IMITEC45504.2019.9015907
 
